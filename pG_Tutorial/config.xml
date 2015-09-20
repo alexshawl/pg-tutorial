@@ -5,14 +5,14 @@
         versionCode = "10"
         version     = "1.1.0">
  
-    <name>Employee Directory</name>
+    <name>PG Tutorial Test Alex</name>
  
     <description>
-        A simple employee directory application
+        Eine PG Tutorial Test Alex APp
     </description>
  
-    <author href="http://coenraets.org" email="ccoenraets@gmail.com">
-        Christophe Coenraets
+    <author href="http://coenraets.org" email="alexander@schaal.org">
+        Alexander Schaal
     </author>
  
     <feature name="http://api.phonegap.com/1.0/camera"/>
